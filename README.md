@@ -182,7 +182,8 @@ Smart-Crop-Recommendation-System/
 └── dataset/
 Installation
 Clone Repository
-git clone https://github.com/your-username/smart-crop-recommendation-system.git
+git clone https://github.com/hk6660/SMART-CROP-RECOMMENDATION-SYSTEM-USING-
+ENSEMBLE-LEARNING-FUZZY-LOGIC-AND-EXPLAINABLE-AI.git
 Navigate to Project Directory
 cd smart-crop-recommendation-system
 Install Dependencies
